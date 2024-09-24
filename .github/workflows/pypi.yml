@@ -40,3 +40,4 @@ jobs:
           skip-existing: true
           packages-dir: dist/
           verbose: true
+          password: ${{ secrets.MATRIX_PROFILE_PYPI_API_TOKEN }}
