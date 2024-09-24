@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "cmp"
+name = "moderate-matrix-profile"
 version = "1.0.1"
 description = "Contextual matrix profile for anomaly detection in building electrical loads"
 authors = ["RobertoChiosa <roberto.chiosa@polito.it>"]
