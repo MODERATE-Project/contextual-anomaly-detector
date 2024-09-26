@@ -1,0 +1,14 @@
+attrs==24.2.0
+boto3==1.35.27
+botocore==1.35.27
+certifi==2024.8.30
+charset-normalizer==3.3.2
+environ-config==24.1.0
+idna==3.10
+jmespath==1.0.1
+python-dateutil==2.9.0.post0
+requests==2.32.3
+s3transfer==0.10.2
+sh==2.0.7
+six==1.16.0
+urllib3==2.2.3
