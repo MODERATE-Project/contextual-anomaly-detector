@@ -12,7 +12,7 @@ import requests
 import sh
 
 logging.basicConfig(
-    level=logging.DEBUG,
+    level=os.getenv("LOG_LEVEL", "WARNING"),
     stream=sys.stdout,
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
 )
