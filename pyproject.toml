@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "moderate-matrix-profile"
+name = "contextual-anomaly-detector"
 version = "1.0.1"
 description = "Contextual matrix profile for anomaly detection in building electrical loads"
 authors = ["RobertoChiosa <roberto.chiosa@polito.it>"]
